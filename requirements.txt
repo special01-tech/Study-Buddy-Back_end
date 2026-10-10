@@ -1,0 +1,5 @@
+fastapi[standard]>=0.142.2
+sqlalchemy>=2.1.2
+httpx>=0.28.1
+python-dotenv>=1.2.4
+alembic>=1.20.0
